@@ -3,7 +3,7 @@
 2. MongoDB (preferably > 3.0, current ones have 2.4)<br><br>
 
 <b>Step 2:</b> Get the source code repository form github.<br>
-<b>2.1:</b> <i>git clone https://github.com/Crawlers.git</i><br><br>
+<b>2.1:</b> <i>git clone https://github.com/test.git</i><br><br>
 
 
 I am assuming that the directory of the source code will be called <i>$CRAWLER_HOME</i><br><br>
